@@ -1,4 +1,4 @@
 # HLMA - HomeLabMyAss
-### debian based hypervisor tool for homelabbing 
+### hypervisor tool for homelabbing 
 
 
